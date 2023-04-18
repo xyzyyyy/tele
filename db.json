@@ -1,0 +1,63 @@
+{
+  "users": {
+    "5485691868": {
+      "sn": "f5b8354c789f9e93ca2a73245f035924",
+      "nama": "Rahardiyan",
+      "lahir": "2000-02-02",
+      "tanggal": 1681765985702,
+      "uang": -2999160,
+      "bank": 0,
+      "exp": 341,
+      "level": 2,
+      "levelbag": 1,
+      "health": 100,
+      "strength": 8,
+      "mp": 30,
+      "agility": 5,
+      "durability": 8,
+      "intelligence": 5,
+      "sword": 0,
+      "swordexp": 0,
+      "armor": 0,
+      "armorexp": 0,
+      "pickaxe": 0,
+      "pickaxeexp": 0,
+      "busur": 0,
+      "busurexp": 0,
+      "magicwand": 0,
+      "magicwandexp": 0,
+      "items": {
+        "panah": 0,
+        "enchantbook": 0,
+        "potion": 0,
+        "tali": 0,
+        "string": 0,
+        "besi": 0,
+        "zamrud": 0,
+        "emas": 0,
+        "batu": 0,
+        "kayu": 0,
+        "elixir": 0,
+        "ether": 0,
+        "antidote": 0
+      },
+      "maxitems": 100,
+      "lastrevive": 0,
+      "lastenchant": 0,
+      "limit": 50,
+      "lastUltah": 0,
+      "lastBansos": 1681765994107,
+      "lastMining": 1681766002997
+    }
+  },
+  "group": {
+    "-1001837812874": {
+      "member": [
+        "Rkykyky437824919",
+        "myusiraj"
+      ],
+      "polls": {},
+      "quiz": {}
+    }
+  }
+}
